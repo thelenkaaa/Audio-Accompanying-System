@@ -68,5 +68,3 @@ def generate_audio_prompts(tags):
 
     print(f"[INFO] Prompts: {prompts}")
     return prompts
-
-# collected_prompts_audio_model_dict = generate_audio_prompts(collected_tags)
