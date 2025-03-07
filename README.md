@@ -1,9 +1,12 @@
 # Audio-Accompanying-System
 A system that generates realistic audio for videos by analyzing highlighted objects on the screen.
 
-📌 Overview
+Overview
 The Audio Accompanying System is designed to enhance videos without sound by generating realistic audio based on the detected objects. 
 The system detects objects in video frames, filters out irrelevant ones, and generates appropriate sounds based on how long each object appears on the screen. In the end, all generated audio pieces are combined into a single synchronized track that should match the original video.
+
+How to see Results
+Open Diploma_07_03_2025.ipynb to see how the system works FOR NOW.
 
 Key Features
 ✅ Object Detection – Identifies and tracks objects in video frames.
